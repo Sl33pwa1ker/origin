@@ -1,5 +1,4 @@
-﻿#pragma once
-#ifndef RECTANGLE_H
+﻿#ifndef RECTANGLE_H
 #define RECTANGLE_H
 
 #include "quadrilateral.h"

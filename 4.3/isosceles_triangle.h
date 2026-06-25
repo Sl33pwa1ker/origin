@@ -1,5 +1,4 @@
-﻿#pragma once
-#ifndef ISOSCELES_TRIANGLE_H
+﻿#ifndef ISOSCELES_TRIANGLE_H
 #define ISOSCELES_TRIANGLE_H
 
 #include "triangle.h"

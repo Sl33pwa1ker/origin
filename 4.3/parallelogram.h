@@ -1,5 +1,4 @@
-﻿#pragma once
-#ifndef PARALLELOGRAM_H
+﻿#ifndef PARALLELOGRAM_H
 #define PARALLELOGRAM_H
 
 #include "quadrilateral.h"

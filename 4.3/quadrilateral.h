@@ -1,5 +1,4 @@
-﻿#pragma once
-#ifndef QUADRILATERAL_H
+﻿#ifndef QUADRILATERAL_H
 #define QUADRILATERAL_H
 
 #include "figure.h"

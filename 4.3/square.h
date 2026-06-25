@@ -1,5 +1,4 @@
-﻿#pragma once
-#ifndef SQUARE_H
+﻿#ifndef SQUARE_H
 #define SQUARE_H
 
 #include "rectangle.h"
