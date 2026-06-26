@@ -1,9 +1,9 @@
 ﻿#ifndef SQUARE_H
 #define SQUARE_H
 
-#include "rectangle.h"
+#include "quadrilateral.h"
 
-class Square : public Rectangle {
+class Square : public Quadrilateral {
 public:
     Square(double side);
     virtual ~Square() = default;

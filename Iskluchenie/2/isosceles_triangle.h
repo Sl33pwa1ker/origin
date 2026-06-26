@@ -5,7 +5,7 @@
 
 class IsoscelesTriangle : public Triangle {
 public:
-    IsoscelesTriangle(double base, double legs, double baseAngles, double vertexAngle);
+    IsoscelesTriangle(double side_a, double side_b, double angle_A, double angle_B);
     virtual ~IsoscelesTriangle() = default;
 
     virtual void printInfo() const override;

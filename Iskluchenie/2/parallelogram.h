@@ -5,7 +5,7 @@
 
 class Parallelogram : public Quadrilateral {
 public:
-    Parallelogram(double sideA, double sideB, double angle);
+    Parallelogram(double side_a, double side_b, double angle_A);
     virtual ~Parallelogram() = default;
 
     virtual void printInfo() const override;

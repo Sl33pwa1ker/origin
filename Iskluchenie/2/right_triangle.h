@@ -5,7 +5,8 @@
 
 class RightTriangle : public Triangle {
 public:
-    RightTriangle(double a, double b, double c, double A, double B);
+    RightTriangle(double side_a, double side_b, double side_c,
+        double angle_A, double angle_B);
     virtual ~RightTriangle() = default;
 
     virtual void printInfo() const override;

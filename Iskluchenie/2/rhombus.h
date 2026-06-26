@@ -1,11 +1,11 @@
 ﻿#ifndef RHOMBUS_H
 #define RHOMBUS_H
 
-#include "parallelogram.h"
+#include "quadrilateral.h"
 
-class Rhombus : public Parallelogram {
+class Rhombus : public Quadrilateral {
 public:
-    Rhombus(double side, double angle);
+    Rhombus(double side, double angle_A);
     virtual ~Rhombus() = default;
 
     virtual void printInfo() const override;

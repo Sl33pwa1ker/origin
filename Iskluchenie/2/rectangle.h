@@ -5,7 +5,7 @@
 
 class Rectangle : public Quadrilateral {
 public:
-    Rectangle(double width, double height);
+    Rectangle(double side_a, double side_b);
     virtual ~Rectangle() = default;
 
     virtual void printInfo() const override;
